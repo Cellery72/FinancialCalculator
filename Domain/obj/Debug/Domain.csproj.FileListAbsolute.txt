@@ -1,0 +1,6 @@
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\bin\Debug\Domain.dll
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\bin\Debug\Domain.pdb
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\bin\Debug\LINQtoCSV.dll
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.dll
+c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.pdb
