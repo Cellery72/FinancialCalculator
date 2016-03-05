@@ -10,9 +10,9 @@ namespace Domain
 {
     public static class Utility
     {
-        public static List<Spreadsheet> readCSV(string s)
+        public static List<Row> readCSV(string s)
         {
-            List<Spreadsheet> ls = new List<Spreadsheet>();
+            List<Row> ls = new List<Row>();
             try {
                 string temp = Path.GetFullPath(s);
                 CsvFileDescription inputFileDescription = new CsvFileDescription
@@ -22,10 +22,10 @@ namespace Domain
                     FirstLineHasColumnNames = false
                 };
                 CsvContext cc = new CsvContext();
-                IEnumerable<Spreadsheet> products =
-                    cc.Read<Spreadsheet>(temp, inputFileDescription);
+                IEnumerable<Row> products =
+                    cc.Read<Row>(temp, inputFileDescription);
 
-                foreach (Spreadsheet y in products)
+                foreach (Row y in products)
                 {
                     ls.Add(y);
                 }
@@ -34,6 +34,7 @@ namespace Domain
             {
                 ls = null;
                 Console.WriteLine(ex.Message);
+                throw ex;
             }
             return ls;        
         }
