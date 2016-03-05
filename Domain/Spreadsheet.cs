@@ -3,29 +3,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LINQtoCSV;
 
 namespace Domain
 {
     public class Spreadsheet
     {
-        public Spreadsheet()
+        public Spreadsheet() { }
+        public Spreadsheet(string filename)
         {
+            rows = Utility.readCSV(filename);
+            populateRetailers();
         }
 
-        [CsvColumn(Name="Date",FieldIndex = 1)]
-        public DateTime Date { get; set; }
+        protected List<Row> rows { get; set; }
+        protected string[] columns = { "Date", "Retailer", "Outbound", "Inbound", "Running Balance" };
+        public Dictionary<string, int> retailers = new Dictionary<string, int>();
 
-        [CsvColumn(Name = "Retailer", FieldIndex = 2)]
-        public string Retailer { get; set; }
+        private void populateRetailers()
+        {
+            foreach (Row r in rows)
+            {
+                if (retailers.ContainsKey(r.Retailer))
+                    retailers[r.Retailer]++;
+                else
+                    retailers.Add(r.Retailer, 0);
+            }
+        }
 
-        [CsvColumn(Name = "Outbound", FieldIndex = 3)]
-        public double Outbound { get; set; }
 
-        [CsvColumn(Name = "Inbound", FieldIndex = 4)]
-        public double Inbound { get; set; }
-
-        [CsvColumn(Name = "Balance", FieldIndex = 5)]
-        public double RunningBalance { get; set; }
     }
 }
