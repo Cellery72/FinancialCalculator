@@ -10,3 +10,19 @@ c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Financ
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.csproj.GenerateResource.Cache
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.exe
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe.config
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.exe
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\Domain.dll
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\LINQtoCSV.dll
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\bin\Debug\Domain.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Form1.resources
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Properties.Resources.resources
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.UCCalendar.resources
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.UCDay.resources
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.UCWeek.resources
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.UCMonth.resources

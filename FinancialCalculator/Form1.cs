@@ -8,10 +8,18 @@ namespace FinancialCalculator
 {
     public partial class Form1 : Form
     {
+        private DateTime today = DateTime.Now;
+
+        
         public Form1()
         {
             InitializeComponent();
         }
+
+        
+        // ******************************
+        // ~~~~~~ Event Handlers ~~~~~~~~
+        // ******************************
         private void btnUpload_Click(object sender, EventArgs e)
         {
             Spreadsheet spred = new Spreadsheet(tbFile.Text);

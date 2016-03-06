@@ -117,33 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btnPrevYear.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAatJREFUeF7t
-        motNw0AQRF0CpVACJVACJVACHUAH0Al0AB1AB9AB7IBOslZzDo7xctmdJ42U7/o8upkkViYhhBBCCCGE
-        +GeuTWc/N2vyZHo2nX/fKwgM+DS9my7xQDWaAU23plJ4A6BHU5leYAZAr6YSvdAzAEIvXJlSs2RAU+pe
-        8Aa8uPtNaXvBG3BhwrafP9aUsheYAQAn+mGaPwel64WeAQBbvheJ3XqBHSxScwMaDyb22l16gR0oUswA
-        ENYL7CCR6hkAQnrBD4/WkgFg917wQ0flzuTXCm3uBT9wZLDtWSQ29YIfNjo40TeTX/fRveAHnQLY8r3f
-        FKt7wQ84BWAAsu/XDqErVuEHjA4igMz7daMb0kcAJ4is+zWjE9KXILLt1wqhC/70YzBav/kihMvo7L2r
-        885ggyN16Ksw2/JH553hh0dr7Y+hTXlnsINEihlwb2Kv3Zz3ETh0QWTXvI9Az4CQvI8AMyAs7yPgDeht
-        +RR5Z3gDmNLknbFkQLq8M3oGpMw7gxmQNu8Mb8CNqRTNAOS97F9kcJm7RN4Z5f8mJ4QQQgghhIhimr4A
-        fcUolKDrmYIAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAB/0lEQVR4XuWa0Y3CQBBD6QA6
-        CB1AB9AJdAAdUAIlpARKoARKSQl78UlzSgbPkh8gN/540sU7F3at2EIRi1KKNFRUgopKUFEJKipBRSWo
-        qAQVlaCiElRUgopKUFEJKr6TruvK9Xrt/+Trn4aK7+LxeJTNZlN2u11/yWc+DRXfwe12K8vlsv/EhZ4B
-        l8vl9+CGjAHIOw47PLyMAch70zRPh5cwoG3bv7wzUhtwOp2eDuxJaUCUd7DdbkfX6Qyo5R1xuN/vIy2V
-        AVHeV6tVgTGYSWtAlHc88oiEzaUzoJb34/HYj4znvQHfwO/JoGKNV3n38yCNAVPyzkhhwNS8M/61AbW8
-        n8/nfoT/37fxe/XrBhWNKO945KO8zwW/Z79uUBFEeV+v19W8zwW/b79uUDHK+36/f5n3ueD37tcNKiLb
-        /gYAXSBhAEAEkHV/I3RC+ggYOCgy72+GbkhfggYeeWTf3xCgK/z8XPB79esGFRlRL+A1d+ovQkOiXkAk
-        0n8VNqJeAFEvpDIA1HrhcDj0I+P5dAYYU3vBG5DmjRCY0gupDQCveiG9AaDWC4jE8DqlAUbUC0NSGwCi
-        XjDSGwBqvSBhAIh6QcYAw/eCnAEAP5GxXpA0AKAX8Bpd1gCAXpD9mdwcoaISVFSCikpQUQkqKkFFJaio
-        BBWVoKISVFSCijqUxQ/aqcS5u+MiJAAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>

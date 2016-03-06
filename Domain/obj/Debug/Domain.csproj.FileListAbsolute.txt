@@ -4,3 +4,9 @@ c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.dll
 c:\users\justin\documents\visual studio 2015\Projects\FinancialCalculator\Domain\obj\Debug\Domain.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\bin\Debug\Domain.dll
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\bin\Debug\Domain.pdb
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\bin\Debug\LINQtoCSV.dll
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\obj\Debug\Domain.dll
+C:\Users\Justin\Documents\GitHub\FinancialCalculator\Domain\obj\Debug\Domain.pdb
